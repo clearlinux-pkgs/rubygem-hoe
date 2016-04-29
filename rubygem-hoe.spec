@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe
 Version  : 3.13.1
-Release  : 11
+Release  : 12
 URL      : https://rubygems.org/downloads/hoe-3.13.1.gem
 Source0  : https://rubygems.org/downloads/hoe-3.13.1.gem
 Summary  : No detailed summary available
